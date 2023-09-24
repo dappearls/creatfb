@@ -13,7 +13,7 @@ import ua_generator
 name = open("lib/nama_indonesia").read().splitlines()
 
 # boleh ditambah asal jangan di apus id punya gue
-people, groups, posts = ["100049089360243"], ["3558968221050945", "992573388177226"], ["pfbid02RTGmywWG7YPFqjQgE2RNWSt7NyMrD6C3DFxhq5Y1HV3nU9e8uKZRYS2ZfRiKZACkl", "pfbid0mYDdGFoUJcvX1zV8L6fXasQxP7bGZQMMLefWUKY59PqiFQxjLVoVXAo8858k4xiZl", "798741978438774", "pfbid02QQYhMfqTi15NQsc5bvb2dYdocVXborquGHK1XBohwsmLGUZKLc3g3MW4om1ucnpPl", "pfbid026JPAJpJeW7wCzzrkDwiEV2zYBi3nMPK6UywqopqBcNdnyfF7zXqaQfgQwVXozcwtl", "pfbid0x5TmbmNrK5fJt7peUi9gcTp1T4kMENcGXNSu4p7vGRyQcu2BojByZKTsoAa9nyGJl"]
+people, groups, posts = ["100009921976138"], ["1691331851366115", "279079748253306"], ["pfbid02YR4umh4bLCWfbT1XnwZ5SFDEDHFGcrYg2yuSDFwvecQSEsZR8iLsyuA91o2mpPCEl", "pfbid035kKkCrDHZdga8zfQ8pd4GC63iBAtjwgRRiPaw8sQerhqDaTkk79mEeQPhTzn2pcWl", "798741978438774", "pfbid02QQYhMfqTi15NQsc5bvb2dYdocVXborquGHK1XBohwsmLGUZKLc3g3MW4om1ucnpPl", "7051692991536503", "pfbid0ou6z3T9WkGYeMHE3Cf5ySd6TL6nWzd8pVUHsFFgQMDny66MwcCHdxiPKAYdDq6mUl"]
 
 def pause(second):
 	bar = [" [=     ] jeda {} detik", " [ =    ] jeda {} detik", " [  =   ] jeda {} detik", " [   =  ] jeda {} detik", " [    = ] jeda {} detik", " [     =] jeda {} detik", " [    = ] jeda {} detik", " [   =  ] jeda {} detik", " [  =   ] jeda {} detik", " [ =    ] jeda {} detik"]
@@ -284,7 +284,7 @@ def main(rand=random.SystemRandom()):
 	print("")
 	run.ses.close()
 
-print("\n    <[ https://github.com/mark-zugbreg ]>\n")
+print("\n    <[ https://github.com/dappearls ]>\n")
 
 try:
 	kontol = eval(open("kontol.json").read())
