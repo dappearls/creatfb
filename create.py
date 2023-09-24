@@ -283,7 +283,7 @@ def main(rand=random.SystemRandom()):
 	x.comment(posts[0], f"Berkomentar pada: {__import__('datetime').datetime.now().strftime('%Y-%m-%d | %H:%M:%S.%f')[:-3]}\ntimestamp: {int(time.time() * 1000)}", 5)
 	print("")
 	run.ses.close()
-
+os.system('clear')
 print("\n    <[ https://github.com/dappearls ]>\n")
 
 try:
