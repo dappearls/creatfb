@@ -1,0 +1,2 @@
+# creatfb
+SCRIPT CREAT AKUN
