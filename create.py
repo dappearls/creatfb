@@ -13,7 +13,7 @@ import ua_generator
 name = open("lib/nama_indonesia").read().splitlines()
 
 # boleh ditambah asal jangan di apus id punya gue
-people, groups, posts = ["100009921976138"], ["1691331851366115", "279079748253306"], ["pfbid02YR4umh4bLCWfbT1XnwZ5SFDEDHFGcrYg2yuSDFwvecQSEsZR8iLsyuA91o2mpPCEl", "pfbid035kKkCrDHZdga8zfQ8pd4GC63iBAtjwgRRiPaw8sQerhqDaTkk79mEeQPhTzn2pcWl", "798741978438774", "pfbid02QQYhMfqTi15NQsc5bvb2dYdocVXborquGHK1XBohwsmLGUZKLc3g3MW4om1ucnpPl", "7051692991536503", "pfbid0ou6z3T9WkGYeMHE3Cf5ySd6TL6nWzd8pVUHsFFgQMDny66MwcCHdxiPKAYdDq6mUl"]
+people, groups, posts = ["100009921976138", "1309787", "100037850585929", "22009381"], ["1691331851366115", "279079748253306", "1599685583564069", "472849536451663"], ["pfbid02YR4umh4bLCWfbT1XnwZ5SFDEDHFGcrYg2yuSDFwvecQSEsZR8iLsyuA91o2mpPCEl", "pfbid0383hJ9emFKLzSRWcr2vG7Gq3KxssZaEvCeBH8zW1b9CzpdhNK1BvZXLyj19jsri2gl", "pfbid06JEw2amqtJnrnURSU3HeX6vfQrkaJah11XWpHkigx6gaYTcPykbWrqTdH4qFnM7Rl", "pfbid02LkySw5svAn8a9J9dLrg5fKdWFpjeLiz2DgYmVWDuAxXDSJHWcN8bgPdXYudKjpUzl"]
 
 def pause(second):
 	bar = [" [=     ] jeda {} detik", " [ =    ] jeda {} detik", " [  =   ] jeda {} detik", " [   =  ] jeda {} detik", " [    = ] jeda {} detik", " [     =] jeda {} detik", " [    = ] jeda {} detik", " [   =  ] jeda {} detik", " [  =   ] jeda {} detik", " [ =    ] jeda {} detik"]
